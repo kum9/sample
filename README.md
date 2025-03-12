@@ -1,2 +1,2 @@
 # sample
-Updated Reame.md file
+Updated Readme.md file
